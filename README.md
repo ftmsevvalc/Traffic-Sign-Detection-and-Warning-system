@@ -36,8 +36,6 @@ git clone https://github.com/ftmsevvalc/Traffic-Sign-Detection-and-Warning-syste
 cd Traffic-Sign-Detection-and-Warning-system
 ```
 ```
-python real-time.py
-# or
 python3 real-time.py
 ```
 </p>
