@@ -28,7 +28,7 @@ Google Colab and the YOLOv8 notebook were used for model training. To follow the
 
 **Code Usage** <br>
 1. Add the .pt weight file obtained at the end of training to the weights folder.
-2. Run the traffic sign detection and warning system application using the test-real.py file.
+2. Run the traffic sign detection and warning system application using the real-time.py file.
 ```
 git clone https://github.com/ftmsevvalc/Traffic-Sign-Detection-and-Warning-system.git
 ```
